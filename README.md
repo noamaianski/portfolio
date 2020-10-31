@@ -4,7 +4,7 @@
 
 <img align="right" src="dock.jpeg" width="200"/>
 
-Pronouns: "she" | "her"
+Pronouns: "she" / "her"
 
 Languages: English, Hebrew
   
