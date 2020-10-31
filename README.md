@@ -1,5 +1,3 @@
-# Noa Maianski's Coding Portfolio
-
 <h1>Welcome! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <img align="right" src="dock.jpeg" width="200"/>
