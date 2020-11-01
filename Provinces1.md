@@ -13,7 +13,7 @@ dict = {
 
 ```
 
-#### It's difficult to read data in this format, and so I have converted the dictionary in to a DataFrame, with the index set as the province. 
+#### It's difficult to understand the data in this format, so I used the below code to convert the dictionary into a DataFrame, with the index set as the names of the provinces.
 
 
 ```python
