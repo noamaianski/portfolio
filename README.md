@@ -17,6 +17,9 @@ Here is an example of a code I wrote to [create a DataFrame](Provinces1.md) from
 
 ### Visualizing a DataFrame
 Here is an example of a code I wrote to [visualize the data](covidinprov.md) from the above [example](Provinces1.md).
+
+### Cleaning Raw Data
+Here is an example of a code I wrote to [clean a raw data file](CleaningData.md). This is important to do prior to performing Exploratory Data Analysis. 
  
 ### 📫 Contact Information
 Questions or concerns? Email me at:
