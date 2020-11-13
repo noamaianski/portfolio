@@ -22,6 +22,6 @@ Here is an example of a code I wrote to [visualize the data](covidinprov1.md) fr
 Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md). This is important to do prior to performing Exploratory Data Analysis. 
  
 ### 📫 Contact Information
-Questions or concerns? Feel free to me at:
+Feel free to me at:
 [nz323351@dal.ca](mailto:nz323351@dal.ca)
 
