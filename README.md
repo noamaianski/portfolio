@@ -22,8 +22,16 @@ Here is an example of a code I wrote to [visualize the data](covidinprov1.md) fr
 Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md). This is important to do prior to performing Exploratory Data Analysis. 
  
 ### Certifications
-[Introduction to Python](intro.pdf)
- 
+[DataCamp: Introduction to Python](intro.pdf)
+[DataCamp: Intermediate Python](inter.pdf)
+[DataCamp: pandas Foundations](pandas.pdf)
+[DataCamp: Manipulating DataFrames with pandas](manipulating.pdf)
+[DataCamp: Merging DataFrames with pandas](intro.pdf)
+[DataCamp: Intro to Data Visualization in Python](visualization.pdf)
+[DataCamp: Introduction to Git](introgit.pdf)
+[DataCamp: Introduction to Shell](introshell.pdf)
+[DataCamp: Biomedical Image Analysis in Python](bia.pdf)
+
 ### 📫 Contact Information
 Feel free to me at:
 [nz323351@dal.ca](mailto:nz323351@dal.ca)
