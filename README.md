@@ -31,11 +31,11 @@ Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md)
 
 [DataCamp: Manipulating DataFrames with pandas](manipulating.pdf)
 
-[DataCamp: Merging DataFrames with pandas](intro.pdf)
+[DataCamp: Merging DataFrames with pandas](merging.pdf)
 
 [DataCamp: Intro to Data Visualization in Python](visualization.pdf)
 
-[DataCamp: Introduction to Git](introgit.pdf)
+[DataCamp: Introduction to Git](intogit.pdf)
 
 [DataCamp: Introduction to Shell](introshell.pdf)
 
