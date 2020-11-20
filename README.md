@@ -41,7 +41,6 @@ Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md)
 
 [DataCamp: Biomedical Image Analysis in Python](bia.pdf)
 
-:sloth:
 
 ### 📫 Contact Information
 Feel free to me at:
