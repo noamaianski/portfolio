@@ -1,6 +1,6 @@
-<h1>Welcome! <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Welcome! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-<img src="https://media.giphy.com/media/l4JyJHAF8blvfplf2/giphy.gif" width=200"/>
+<img src="https://media.giphy.com/media/l4JyJHAF8blvfplf2/giphy.gif" width="30px">
                                                                                
 <img align="right" src="dock.jpeg" width="200"/>
 
