@@ -6,6 +6,7 @@
 
 **Languages:** English, Hebrew
   
+:sloth:
 
 After graduating from <a href="https://www.dal.ca">Dalhousie University</a> with a Bachelors of Science degree in Neuroscience, I moved to South Korea to teach English. After teaching for two years, I decided to come back to school to upgrade my degree to honours.
 
