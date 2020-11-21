@@ -20,7 +20,8 @@ Here is an example of a code I wrote to [visualize the data](covidinprov1.md) fr
 
 ### Cleaning Raw Data
 Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md). This is important to do prior to performing Exploratory Data Analysis. 
- 
+
+<img src="https://media.giphy.com/media/l4JyJHAF8blvfplf2/giphy.gif" width="200px">
  
 ### 🌟 Certifications
 [DataCamp: Introduction to Python](intro.pdf)
