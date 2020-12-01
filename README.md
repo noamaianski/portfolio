@@ -39,6 +39,10 @@ Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md)
 
 [DataCamp: Biomedical Image Analysis in Python](bia.pdf)
 
+[DataCamp: Statistical Thinking in Python I](stat.pdf)
+
+[DataCamp: Python Data Science Toolbox I](sciencetoolbox.pdf)
+
 
 ### 📫 Contact Information
 Feel free to me at:
