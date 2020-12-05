@@ -19,6 +19,8 @@ Here is an example of a code I wrote to [visualize the data](covidinprov1.md) fr
 ### Cleaning Raw Data
 Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md). This is important to do prior to performing Exploratory Data Analysis. 
 
+### The Importance of Hand-washing
+Here is a code I used to show how essential [hand-washing](handwashing.md) is.  
  
 ### 🌟 Certifications
 [DataCamp: Introduction to Python](intro.pdf)
