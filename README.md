@@ -30,8 +30,12 @@ This year (Fall 2020), I enrolled in a Neural Data Science course to challenge m
 
 ## Coding Accomplishments 🌟
 >
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
+- [x] Master the basics of data analysis in Python and scientific computing with numpy
+- [x] Store, access, and manipulate data in lists
+- [x] Create and customize various types of plots using Matplotlib and seaborn
+- [x] Import, build, manipulate, and merge datasets using pandas DataFrames
+- [x] Perform exploratory data analysis and compute useful summary statistics
+- [x] Perform image analysis on biomedical data using NumPy, SciPy, and Matplotlib
 
 [Certificates](accomp.md) I received upon completing various coding lessons on DataCamp.
 
