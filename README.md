@@ -30,31 +30,13 @@ This year (Fall 2020), I enrolled in a Neural Data Science course to challenge m
 
 ## Coding Accomplishments 🌟
 >
-> [DataCamp: Introduction to Python](intro.pdf)
->
-> [DataCamp: Intermediate Python](inter.pdf)
-> 
-> [DataCamp: pandas Foundations](pandas.pdf)
->
-> [DataCamp: Manipulating DataFrames with pandas](manipulating.pdf)
->
-> [DataCamp: Merging DataFrames with pandas](merging.pdf)
->
-> [DataCamp: Intro to Data Visualization in Python](visualization.pdf)
->
-> [DataCamp: Introduction to Git](intogit.pdf)
-> 
-> [DataCamp: Introduction to Shell](introshell.pdf)
->
-> [DataCamp: Biomedical Image Analysis in Python](bia.pdf)
->
-> [DataCamp: Statistical Thinking in Python I](stat.pdf)
->
-> [DataCamp: Python Data Science Toolbox I](sciencetoolbox.pdf)
+- [x] Finish my changes
+- [ ] Push my commits to GitHub
+
+[Certificates](accomp.md) I received upon completing various coding lessons on DataCamp.
 
 <p>&nbsp;</p>
 
 ## Contact Information 📧
-For questions or collaborations, feel free to email me at:
-[nz323351@dal.ca](mailto:nz323351@dal.ca)
+If you have questions or ideas for future collaborations, please email me at: [nz323351@dal.ca](mailto:nz323351@dal.ca)
 
