@@ -12,7 +12,7 @@ This year (Fall 2020), I enrolled in a Neural Data Science course to challenge m
 
 <p>&nbsp;</p>
 
-## Completed Projects :+1:
+## Completed Projects 👍
 >
 > ### Creating a DataFrame from a Dictionary
 >> Here is an example of a code I wrote to [create a DataFrame](Provinces1.md) from a dictionary I made using different online resources.
