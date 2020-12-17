@@ -11,6 +11,7 @@ After graduating from <a href="https://www.dal.ca">Dalhousie University</a> with
 This year (Fall 2020), I enrolled in a Neural Data Science course to challenge myself to learn a new language: **Coding**. This portfolio will showcase my acquired skills and different samples of work I've completed in the course. 
 
 <p>&nbsp;</p>
+
 ### Coding Projects
 ### Creating a DataFrame from a Dictionary
 Here is an example of a code I wrote to [create a DataFrame](Provinces1.md) from a dictionary I made using different online resources.
