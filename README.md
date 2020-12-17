@@ -55,6 +55,6 @@ This year (Fall 2020), I enrolled in a Neural Data Science course to challenge m
 <p>&nbsp;</p>
 
 ## Contact Information 📧
-Feel free to email me for questions or collaborations:
+For questions or collaborations, feel free to email me at:
 [nz323351@dal.ca](mailto:nz323351@dal.ca)
 
