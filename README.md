@@ -29,6 +29,10 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 >
 > ### Flanker-Simon Study
 >> In the following [project](noaproject1.html), I worked with a team to analyze behavioural data from an experiment that was ran in Dr. Aaron Newman's [NeuroCognitive Imaging Lab](https://www.ncilab.ca/) at Dalhousie University. We wanted to see if, in the study, there was an interaction between two well-known effects: the  flanker and the Simon task.
+>
+> ### Working with EEG Data: the N400
+>> In this [project](noaproject2.html), I worked with a team to study EEG data (collected from an experiment conducted in Dr. Aaron Newman's [NeuroCognitive Imaging Lab](https://www.ncilab.ca/)). Together, we were able to visualize ERP Waveforms and Topographic maps. 
+
 <p>&nbsp;</p>
 
 ## Coding Accomplishments 🌟
