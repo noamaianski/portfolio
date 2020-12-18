@@ -1,5 +1,5 @@
 ## Statements of Accomplishment
-I received the following certificates upon completing coding lessons on DataCamp. They are listed by date of completion. 
+I received the following certificates upon completing coding lessons on [DataCamp](https://learn.datacamp.com). They are listed by date of completion. Together, these lessons account for more than 40 hours of coding practice! 
 
 | <img src='intro.png' width=500/> |
 
