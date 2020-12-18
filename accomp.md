@@ -1,5 +1,5 @@
 ## Statements of Accomplishment
-I received the following certificates upon completing various coding lessons on DataCamp. They are listed by date of completion. 
+I received the following certificates upon completing coding lessons on DataCamp. They are listed by date of completion. 
 
 | <img src='intro.png' width=500/> |
 
