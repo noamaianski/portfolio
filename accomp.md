@@ -23,3 +23,4 @@ I received the following certificates upon completing coding lessons on [DataCam
 
 | <img src='toolbox.png' width=500/> |
 
+Return to [homepage](https://noamaianski.github.io/portfolio/)
