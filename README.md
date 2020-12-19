@@ -26,7 +26,9 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 >
 > ### Working with EEG Data: the N400
 >> In this [project](project2.html), I worked with a team to study EEG data (collected from an experiment conducted in Dr. Aaron Newman's [NeuroCognitive Imaging Lab](https://www.ncilab.ca/)). Together, we were able to visualize ERP Waveforms and Topographic maps. 
-
+>
+> ### Analyzing and Visualizing Nobel Prize Winners
+>> [Here](nobel.html), I worked with and visualized data from a CSV file found on [Kaggle](https://www.kaggle.com/nobelfoundation/nobel-laureates). Data here is of Nobel Prize winners from 1901-2016. In the code, you can see how I applied my pandas, seaborn, and numpy skills. 
 <p>&nbsp;</p>
 
 ## Coding Accomplishments 🌟
