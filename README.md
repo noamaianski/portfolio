@@ -22,7 +22,10 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 >> In this [project](project2.html), I worked with a team to study EEG data (collected from an experiment conducted in Dr. Aaron Newman's [NeuroCognitive Imaging Lab](https://www.ncilab.ca/)). Together, we were able to visualize ERP Waveforms and Topographic maps. 
 > 
 > ### Visualizing MRI Data
->> In this [assignment](a5.html), I worked with MRI data using imageIO. 
+>> In this [assignment](a5.html), I worked with MRI data using imageio. 
+>
+> ### Reaction Time Data
+> This [sample](a2.html) of code shows how you can analyze reaction time data using Python and NunPy arrays.
 >
 > ### The Importance of Hand-washing 
 >> [Here](handwashing.html), I used pandas and Matplotlib to analyze medical data and to show how essential hand-washing is.
