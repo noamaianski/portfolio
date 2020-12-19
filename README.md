@@ -21,7 +21,7 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 > ### Working with EEG Data: the N400
 >> In this [project](project2.html), I worked with a team to study EEG data (collected from an experiment conducted in Dr. Aaron Newman's [NeuroCognitive Imaging Lab](https://www.ncilab.ca/)). Together, we were able to visualize ERP Waveforms and Topographic maps. 
 > 
->> ### Visualizing MRI Data
+> ### Visualizing MRI Data
 >> In this [assignment](a5.html), I worked with MRI data using imageIO. 
 >
 > ### The Importance of Hand-washing 
@@ -44,6 +44,7 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 - [x] Import, build, manipulate, and merge datasets using pandas DataFrames
 - [x] Perform exploratory data analysis and compute useful summary statistics using graphical and statistical operations
 - [x] Perform image analysis on biomedical data using NumPy, SciPy, and Matplotlib
+
 [Certificates](accomp.md) I received upon completing various coding lessons on DataCamp.
 
 <p>&nbsp;</p>
