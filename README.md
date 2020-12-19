@@ -18,12 +18,6 @@ The following projects were written in Python (Jupyter Notebook). Click on the p
 > ### Creating a DataFrame from a Dictionary
 >> Here is an example of a code I wrote to [create a DataFrame](Provinces1.md) from a dictionary I made using different online resources.
 >
-> ### Visualizing a DataFrame
->> Here is an example of a code I wrote to [visualize the data](covidinprov1.md) from the above [example](Provinces1.md).
->
-> ### Cleaning Raw Data
->> Here is an example of a code I wrote to [clean a raw data file](cleaningdata.md). This is important to do prior to performing Exploratory Data Analysis. 
->
 > ### The Importance of Hand-washing 
 >> [Here](handwashing.html), I used pandas and Matplotlib to analyze medical data and to show how essential hand-washing is.
 >
