@@ -6,7 +6,7 @@
 
 **Languages:** English, Hebrew, Python
   
-After graduating from <a href="https://www.dal.ca">Dalhousie University</a> with a Bachelor of Science degree in Neuroscience, I moved to South Korea to teach English. After teaching for two years, I decided to upgrade my degree to honours.
+After graduating from <a href="https://www.dal.ca">Dalhousie University</a> with a Bachelor of Science degree in Neuroscience, I moved to South Korea to teach English. 
 
 This year (Fall 2020), I registered in a Neural Data Science course to challenge myself to learn a new language: **Coding**. This portfolio showcases my acquired skills and different samples of work I have completed in the course. 
 
